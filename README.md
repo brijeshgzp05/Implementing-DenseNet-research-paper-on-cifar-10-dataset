@@ -3,6 +3,8 @@ Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG).
 
 Link to the researche paper : https://arxiv.org/abs/1608.06993
 
+![Screenshot (253)](https://user-images.githubusercontent.com/31829776/128489036-b0efbde0-5128-4164-a0a7-264672a79d59.png)
+
 DenseNets have several compelling advantages: 
 1. They alleviate the vanishing-gradient problem.
 2. Strengthen feature propagation.
